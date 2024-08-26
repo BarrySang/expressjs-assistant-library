@@ -1,0 +1,18 @@
+{
+  "name": "expressjs-assistant",
+  "version": "1.0.0",
+  "description": "- [EXPRESS-JS ASSISTANT](#express-js-assistant)\r   - [Table of Contents](#table-of-contents)\r   - [Introduction](#introduction)\r   - [Features](#features)\r   - [Prerequisites](#prerequisites)\r   - [Installation](#installation)\r   - [License](#license)",
+  "main": "main.js",
+  "scripts": {
+    "main": "node main.js",
+    "reset-project-structure": "node lib/reset-project-structure.js",
+    "generate-project-structure": "node lib/generate-project-structure.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.19.2"
+  }
+}
