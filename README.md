@@ -1,7 +1,7 @@
-# Expressjs Assistant
+# Expressjs Assistant Library
 
 ## Table of Contents
-- [Expressjs Assistant](#expressjs-assistant)
+- [Expressjs Assistant Library](#expressjs-assistant-library)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
